@@ -7,3 +7,5 @@ Div: C2-1
 Date: 01/02/2025 
 
 Changes made to branch1.
+
+Trade??
